@@ -360,7 +360,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ## Circuit board :
  
- https://github.com/MuthulakshmiD/CLASSICAL-PLANNING/tree/main
+<img width="721" height="1600" alt="STM" src="https://github.com/user-attachments/assets/9c604a56-e8a1-42a2-9155-f65177a83094" />
+
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
